@@ -1,4 +1,4 @@
-ITOfficeeu_Sensor_Power_Control_Library
+ITOfficeeu_PinState
 ========================================
 
   itoffice.eu sells parts at its website: www.itoffice.eu
@@ -17,12 +17,7 @@ Repository Contents
 Documentation
 --------------
 
-* 
-
-Products that use this Library 
----------------------------------
-
-* 
+Easily add functions like myvar.begin(PINnumber), myvar.on(), myvar.off() and myvar.status() to a single pin on a microcontroller. 
 
 License Information
 -------------------
